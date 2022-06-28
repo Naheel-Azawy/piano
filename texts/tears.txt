@@ -1,0 +1,6 @@
+p s s | s | s s p s d a |
+o a a | a | o o o a s s |
+p s s | s | p s p s d a |
+o a a | a | o o o a s s |
+g f g f | g | g f f | g g f g f |
+g f g f | d | g g f f | g g f | g f

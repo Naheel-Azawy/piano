@@ -1,0 +1,77 @@
+:root {
+    --piano-clr-white: #aaaaaa;
+    --piano-clr-black: #000000;
+    --piano-clr-press: #ffffff;
+}
+
+body {
+    background-color: black;
+    color:            white;
+}
+
+body, button, select, input, a {
+    color:       white;
+    text-shadow: 0px 4px 8px rgba(0,0,0,0.5);
+    font-family: dejavu, monospace;
+}
+
+body, button, select, input {
+    background-color: black;
+}
+
+.piano-key {
+    font-family:     monospace;
+    text-align:      center;
+    transition:      500ms;
+    position:        absolute;
+    cursor:          pointer;
+    display:         flex;
+    justify-content: center;
+    align-items:     flex-end;
+    border-radius:   0px 0px 3px 3px;
+    border:          1px solid var(--piano-clr-black)
+}
+
+.piano-white {
+    background-color: var(--piano-clr-white);
+    color:            var(--piano-clr-black);
+    z-index:          0;
+}
+
+.piano-black {
+    background-color: var(--piano-clr-black);
+    color:            var(--piano-clr-white);
+    z-index:          1;
+}
+
+.piano-pressed {
+    background-color: var(--piano-clr-press);
+    color:            black;
+}
+
+.piano {
+    position: relative;
+    margin:   auto;
+}
+
+.piano-text {
+    font-family: monospace;
+    color:       var(--piano-clr-white);
+    font-size:   14pt;
+    text-align:  center;
+    padding:     10px;
+}
+
+.piano-text-active {
+    color:       var(--piano-clr-press);
+    font-weight: bold;
+}
+
+#con {
+}
+
+/* Hide the annoying highlight on android */
+input, textarea, button, select, a, div {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none !important;
+}

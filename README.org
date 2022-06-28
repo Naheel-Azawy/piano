@@ -1,0 +1,10 @@
+* piano
+A minimal javascript based piano.
+
+** Build
+#+begin_src shell-script
+  ./build.sh
+#+end_src
+
+** License
+GPL-3

@@ -1,0 +1,37 @@
+u|u|u|u|u|u|u|u|
+[uep]|u|u|[ura]|u|u|u|u|u|
+[uep]|[ura]|[uts]|[ura]|[uep]|[ura]|[uts]|u|u|
+[ura]|u|u|u|u|u|
+[uep]|u|[uf]|[uts]|u|u|
+[ura]|u|u|u|u|u|
+[uep]|[uf]|[uts]|[ura]|[uep]|[ura]|[uts]|u|u|
+[ura]|u|u|u|u|u|
+[uep]|[uf]|[uts]|[ura]|[uep]|[ura]|[uts]|u|u|
+[uyd]|u|u|[uf]|u|u|
+[uep] a [us] a [up] s
+[ura] p [uo] p [ua] o [ua] p [uo] p [ua] o
+[uep] s [ura] d [uts] p [ura] o
+[uep] s [ura] d [uts] d [us] a [up] s
+[ura] p [uo] p [ua] o [ua] p [uo] f [ua] o
+[uep] a [us] a [uf] a [uts] d [us] a [up] s
+[ura] p [uo] p [ua] o [ua] p [uo] f [ua] o
+[uep] s [uf] a [uts] p [ura] o
+[uep] s [ura] d [uts] a [up] a [us] p
+[uyd] s [ua] s [ud] a
+[uf]|[uf]|[uf]|[uf]|[uf]|[uf]|[uf]|[uf]|
+[uqp]|[uf]|u|[up]|[uf]|u|
+[uwa]|[uf]|u|[ua]|[uf]|u|
+[ues]|[uf]|u|[us]|[uf]|u|
+[uwd]|[uf]|u|[ud]|[uf]|[ua]|
+[u4qp] f [uf] f u f [up] f [uf] f u f
+[u5wa] f [uf] f u f [ua] f [uf] f u f
+[u6es] f [uf] f u f [us] f [uf] f u f
+[u5wd] f [uf] f u f [ud] f [uf] f u f
+[4pj]|[fx]||[pj]|[fx]||
+[5ak]|[fx]||[ak]|[fx]||
+[6sl]|[fx]||[sl]|[fx]||
+[5dz]|[fx]||[dz]|[fx]|a|
+[4e]|f||e|f||
+[5r]|f||r|f||
+[6t]|f||t|f||
+[5y]|f||y|f|a|[3uf]

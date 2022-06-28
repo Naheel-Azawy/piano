@@ -1,0 +1,7 @@
+* Source
+- from: https://musical-artifacts.com/artifacts/1790
+- license: WTFPL
+
+* Conversion
+- extracted wav files using polyphone
+- converted to mp3 using ffmpeg
